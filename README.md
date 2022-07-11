@@ -1,4 +1,4 @@
-/*<a href="#"><img width="100%" height="auto" src="https://spectrum.ieee.org/media-library/illustration-of-a-programmer-sitting-in-front-of-a-computer-with-boxes-that-contain-different-programming-languages-names-around-him.jpg?id=25587918&width=1200&height=721" height="100px"/></a>*/
+<!-- <a href="#"><img width="100%" height="auto" src="https://spectrum.ieee.org/media-library/illustration-of-a-programmer-sitting-in-front-of-a-computer-with-boxes-that-contain-different-programming-languages-names-around-him.jpg?id=25587918&width=1200&height=721" height="100px"/></a> -->
 
 <h1 valign="center">Hi <img hei src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Shivraj</h1>
 <h3 valign="center">A passionate web Developer from India.</h3>
